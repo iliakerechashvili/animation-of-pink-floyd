@@ -2,10 +2,11 @@
 body {
     width: 100%;
     height: 100%;
+    background-image: url("../images/white-brick-wall-texture-background_42682-396.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-color:black;
-    justify-content: space-between;
+    justify-content:center;
     display: flex;
     margin: 200px auto;
     animation: anime 3s linear infinite ;
